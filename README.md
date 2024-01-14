@@ -1,4 +1,3 @@
-  GNU nano 7.2                                                                  encrypter.py                                                                           
 import os
 import pyaes
 
